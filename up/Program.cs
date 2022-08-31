@@ -24,7 +24,7 @@ while(row < number.GetLength(0))
                     Console.WriteLine();
                 }
             Console.WriteLine(" ");
-            step++;
+            step++; 
 
         }        
         count++;
