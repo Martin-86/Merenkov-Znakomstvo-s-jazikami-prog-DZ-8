@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Asus\\Desktop\\GB\\Языки программирования\\Языки прог. ДЗ-8\\uporjadochit\\uporjadochit.csproj",
-      "projectName": "uporjadochit",
-      "projectPath": "C:\\Users\\Asus\\Desktop\\GB\\Языки программирования\\Языки прог. ДЗ-8\\uporjadochit\\uporjadochit.csproj",
+      "projectUniqueName": "C:\\Users\\Asus\\Desktop\\GB\\Языки программирования\\Языки прог. ДЗ-8\\up\\up.csproj",
+      "projectName": "up",
+      "projectPath": "C:\\Users\\Asus\\Desktop\\GB\\Языки программирования\\Языки прог. ДЗ-8\\up\\up.csproj",
       "packagesPath": "C:\\Users\\Asus\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Asus\\Desktop\\GB\\Языки программирования\\Языки прог. ДЗ-8\\uporjadochit\\obj\\",
+      "outputPath": "C:\\Users\\Asus\\Desktop\\GB\\Языки программирования\\Языки прог. ДЗ-8\\up\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Asus\\AppData\\Roaming\\NuGet\\NuGet.Config"

@@ -6,15 +6,15 @@
   "compilationOptions": {},
   "targets": {
     ".NETCoreApp,Version=v6.0": {
-      "uporjadochit/1.0.0": {
+      "up/1.0.0": {
         "runtime": {
-          "uporjadochit.dll": {}
+          "up.dll": {}
         }
       }
     }
   },
   "libraries": {
-    "uporjadochit/1.0.0": {
+    "up/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""
